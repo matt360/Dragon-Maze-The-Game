@@ -188,7 +188,7 @@ public class PlayerController2D : MonoBehaviour
 	}
 	
 	public void WinGame() {
-		winText.text = "YOU DISCOVERED\nA BRAVE NEW, NON PIXELATED WORLD\nFROM THE FIRST SEMESTER!";
+		winText.text = "YOU HAVE DISCOVERED\nA BRAVE NEW, NON PIXELATED WORLD\nFROM THE FIRST SEMESTER!";
 		gameOver = true;
 	}
 	
